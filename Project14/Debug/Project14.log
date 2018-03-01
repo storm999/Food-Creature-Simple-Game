@@ -1,0 +1,24 @@
+﻿  Board.cpp
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(54): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(68): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(96): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(107): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(109): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(133): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(135): warning C4018: '>=': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(137): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(142): warning C4018: '>=': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(170): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(186): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(188): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(206): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(221): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(223): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(255): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(268): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(279): warning C4018: '<': signed/unsigned mismatch
+e:\belgelerim\tahir\dersnotları\wales 1st year\c++\c++coursework\project14 - last\project14\board.cpp(281): warning C4018: '<': signed/unsigned mismatch
+  Project14.vcxproj -> E:\Belgelerim\Tahir\DersNotları\Wales 1st Year\C++\c++CourseWork\Project14 - Last\Debug\Project14.exe
+  Project14.vcxproj -> E:\Belgelerim\Tahir\DersNotları\Wales 1st Year\C++\c++CourseWork\Project14 - Last\Debug\Project14.pdb (Full PDB)
